@@ -14,5 +14,9 @@
     "Generator"
   ],
   "author": "kendrick-dot",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.2",
+    "package-json": "^6.5.0"
+  }
 }
